@@ -10,6 +10,9 @@ I am a highly positive and motivated professional (except for my github pictures
 
 ------------
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_of_inspiration,MapWiT&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=445" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt&card_width=100" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_of_inspiration,MapWiT&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=369&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
+
+[comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>)
+
 
