@@ -8,4 +8,6 @@ I am a highly positive and motivated professional, extremely curious, and theref
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
 - ⚡ Fun fact: I have a pet african pygmy hedgehog named Pixie, and grow carnivoruos plants as a hobby
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
