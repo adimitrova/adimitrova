@@ -1,4 +1,4 @@
-I am a highly positive and motivated professional, extremely curious, and therefore, always striving for further knowledge enhancement. I am open to challenges, initiative, and truly enjoy puzzle-solving via code. I highly value the quality in writing code as well as following the engineering excellence standards (best practices) to ensure robustness, stability, consistency, and therefore peace of mind. I appreciate open-minded and honest people, constructive feedback, and the autonomy to do my job in the best possible way.
+I am a highly positive and motivated professional (except for my github pictures =D and an occasional ascii llama I may or may not leave behind in the code logs), extremely curious, and always striving for further knowledge enhancement. I am open to challenges, initiative, and truly enjoy puzzle-solving via code. I highly value the quality in writing code as well as following the engineering excellence standards (best practices) to ensure robustness, stability, consistency, and therefore peace of mind. I appreciate open-minded and honest people, constructive feedback, and the autonomy to do my job in the best possible way.
 
 --------------
 
