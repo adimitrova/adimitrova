@@ -1,4 +1,4 @@
-I am a highly positive and motivated Software (backend) and Big-data engineer (adding silly avtars on github and occasionally you may or may not find an ascii llama in the code logs), extremely curious, and always striving for further knowledge enhancement. I am open to challenges, initiative, and truly enjoy puzzle-solving via code. I highly value the quality in writing code as well as following the engineering excellence standards (best practices) to ensure robustness, stability, consistency, and therefore peace of mind. I appreciate open-minded and honest people, constructive feedback, and the autonomy to do my job in the best possible way.
+I am a highly positive and motivated Software (backend) and Big-data engineer, extremely curious, and always striving for further knowledge enhancement. I am open to challenges, initiative, and truly enjoy puzzle-solving via code. I highly value the quality in writing code as well as following the engineering excellence standards (best practices) to ensure robustness, stability, consistency, and therefore peace of mind. I appreciate open-minded and honest people, constructive feedback, and the autonomy to do my job in the best possible way.
 
 --------------
 
@@ -15,4 +15,8 @@ I am a highly positive and motivated Software (backend) and Big-data engineer (a
 
 [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>)
 
+------------
 
+### you for reading my info! =)
+
+<img src="https://memegenerator.net/img/instances/52806239.jpg" width="455"/>
