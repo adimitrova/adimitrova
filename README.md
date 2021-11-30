@@ -10,4 +10,4 @@ I am a highly positive and motivated professional, extremely curious, and theref
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_of_inspiration,MapWiT)](https://github.com/anuraghazra/github-readme-stats)
