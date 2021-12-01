@@ -2,7 +2,7 @@ I am a highly positive and motivated Software (backend) and Big-data engineer, e
 
 --------------
 
-- 🔭 __I’m currently working__ at [Paige.AI - Leader in Digital Pathology](https://www.paige.ai/)
+- 🔭 __I work__ at [Paige.AI - Leader in Digital Pathology](https://www.paige.ai/) as a Software Engineer
 - 🌱 __I’m currently learning__ Domain Driven Design; Microservices, Event Driven Development/Architecture
 - 💬 __Ask me about__ Python, PySpark, SQL, Big Data
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
@@ -14,6 +14,6 @@ I am a highly positive and motivated Software (backend) and Big-data engineer, e
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
 
 [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>)
-### you for reading my info! =)
+### Thank you for reading my info! =)
 
 <img src="https://memegenerator.net/img/instances/52806239.jpg" width="200"/>
