@@ -2,8 +2,8 @@ I am a highly positive and motivated Software (backend) and Big-data engineer, e
 
 --------------
 
-- 🔭 __I work__ at [Paige.AI - Leader in Digital Pathology](https://www.paige.ai/) as a Software Engineer
-- 🌱 __I’m currently learning__ Domain Driven Design; Microservices, Event Driven Development/Architecture
+- :computer: __I work__ at [Paige.AI - Leader in Digital Pathology](https://www.paige.ai/) as a Software Engineer
+- :school_satchel: __I’m currently learning__ Domain Driven Design; Microservices, Event Driven Development/Architecture
 - 💬 __Ask me about__ Python, PySpark, SQL, Big Data
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
 - ⚡ __Fun fact__: I have a pet african pygmy hedgehog named Pixie, and grow carnivoruos plants as a hobby
