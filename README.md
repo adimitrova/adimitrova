@@ -11,7 +11,7 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 
 --------------
 
-<img src="https://worldofinspiration.net/images/pixie_banner.png" width="900"/>
+<img src="https://worldofinspiration.net/images/pixie-banner.png" width="900"/>
 
 ------------
 
