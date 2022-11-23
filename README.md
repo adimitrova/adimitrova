@@ -16,4 +16,4 @@ I am a highly positive and motivated Software (backend) and Big-data engineer, e
 [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>)
 ### Thank you for reading my info! =)
 
-<img src="https://memegenerator.net/img/instances/52806239.jpg" width="200"/>
+<img src="https://worldofinspiration.net/images/llama_thanks.jpg" width="200"/>
