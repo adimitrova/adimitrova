@@ -9,9 +9,7 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
 - ⚡ __Fun fact__: I have a pet african pygmy hedgehog named Pixie, and grow carnivoruos plants as a hobby
 
---------------
-
-<img src="https://worldofinspiration.net/images/pixie-banner.png" width="900"/>
+<img src="https://worldofinspiration.net/images/pixie-banner.png"/>
 
 ------------
 
