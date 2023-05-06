@@ -7,7 +7,19 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 - :school_satchel: __I’m currently mastering__ Domain Driven Design; Microservices, Event Driven Development/Architecture
 - 💬 __Ask me about__ Python, PySpark, SQL, Big Data
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
-- ⚡ __Fun fact__: I have a pet african pygmy hedgehog named Pixie, and grow carnivoruos plants as a hobby
+- ⚡ __Fun fact__: I grow carnivoruos plants as a hobby
+
+------------
+
+- 😻 __What I really care about and love doing__: 
+  - 🐘 🐯 🦁 Animal conservation and protection
+  - 🐦 🌷 🐝 Garden birds and wildlife protection
+  - 🐦 Birdwatching
+  - 💻 Latest tech 
+  - 📚 Reading books
+  - 🎵 🥳 Electronic music festivals
+  - 🍻 Meeting friends and new people
+  - ✈️ And, of course, travel as far in the world as possible, to explore new cultures and people 😻
 
 ------------
 
