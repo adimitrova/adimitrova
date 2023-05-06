@@ -11,10 +11,11 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 
 ------------
 
-- 😻 __What I really care about and love doing__: 
+- 😻 __What I am really passionate about..__: 
   - 🐘 🐯 🦁 Animal conservation and protection
   - 🐦 🌷 🐝 Garden birds and wildlife protection
   - 🐦 Birdwatching
+  - ♻️ Nature, ecology and the impact of humans on our planet
   - 💻 Latest tech 
   - 📚 Reading books
   - 🎵 🥳 Electronic music festivals
