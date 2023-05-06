@@ -23,6 +23,8 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 
 ------------
 
+## Codebase
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_of_inspiration,MapWiT&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=369&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
 
