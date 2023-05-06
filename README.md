@@ -11,7 +11,7 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 
 ------------
 
-- 😻 __What I am really passionate about..__: 
+- 😻 __What I am really passionate about..__
   - 🐘 🐯 🦁 Animal conservation and protection
   - 🐦 🌷 🐝 Garden birds and wildlife protection
   - 🐦 Birdwatching
