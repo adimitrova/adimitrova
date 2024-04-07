@@ -17,7 +17,7 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
   - 🐦 🌷 🐝 Garden birds and wildlife protection
   - 🐦 Birdwatching
   - ♻️ Nature, ecology and the impact of humans on our planet
-  - 💻 Coding
+  - 💻🐍 Coding
   - 💻 Latest tech 
   - 📚 Reading books
   - 🎵 🥳 Electronic music festivals
