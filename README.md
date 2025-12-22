@@ -3,9 +3,9 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 
 --------------
 
-- :computer: __I work__ at [Paige.AI - Leader in Digital Pathology](https://www.paige.ai/) as a Software Engineer
-- :school_satchel: __I’m currently mastering__ Domain Driven Design; Microservices, Event Driven Development/Architecture
-- 💬 __Ask me about__ Python, PySpark, SQL, Big Data
+- :computer: __I work__ as a Data & Software Engineering Consultant, currently with Eneco. 
+- :school_satchel: __I’m currently mastering__ Databricks & Streaming tools
+- 💬 __Ask me about__ Python, PySpark, SQL, Big Data, DDD, Microservices, Event-driven architecture
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
 - ⚡ __Fun fact__: I grow carnivoruos plants as a hobby; :hedgehog: I also work as a caretaker volunteer at a hedgehog center in the weekends
 - 📚 I also document my travels and advices thereof in my [personal blog](https://travel.worldofinspiration.net/)✏️. Check it out, might be interesting 🙂
@@ -31,7 +31,8 @@ In fact, we are a dream team of a hedgehog and his human, whereas the human is d
 <img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_of_inspiration,MapWiT&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=369&hide_border=true" />
 <img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api?username=adimitrova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" />
 
-[comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt"/>
+
 ### Thank you for reading my info! =)
 
 <img src="https://worldofinspiration.net/images/llama_thanks.jpg" width="350"/>
