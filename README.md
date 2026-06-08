@@ -37,11 +37,12 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
 
 ### Projects summary
 
-![Epubify](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt&hide_border=true)
+[![Epubify](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt&hide_border=true)](https://github.com/adimitrova/Epubify)
 
-![market_tracker](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=market_tracker&theme=cobalt&hide_border=true)
+[![market_tracker](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=market_tracker&theme=cobalt&hide_border=true)](https://github.com/adimitrova/market_tracker)
 
-![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true)
+[![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true)](https://github.com/adimitrova/FlipLearn)
+
 
 <table align="center" width="576" cellpadding="10" cellspacing="0" bgcolor="#193549" style="border-radius:14px; overflow:hidden;">
   <tr>
