@@ -43,18 +43,10 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
 
 ![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true)
 
-<div style="max-width: 576px; background: #193549; border-radius: 12px; border: 1px solid #e4e2e2; padding: 18px; font-family: 'Segoe UI', Ubuntu, Sans-Serif; color: #e683d9;">
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
-    <div style="display: flex; flex-direction: column; gap: 4px;">
-      <span style="font-size: 18px; font-weight: 700;">conservation-tech-lab</span>
-      <span style="font-size: 12px; color: #75eeb2;">Private repo · WIP</span>
-    </div>
-    <span style="background: rgba(255,255,255,0.08); color: #e683d9; border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 700;">Biodiversity · Geolocation · GIS · Digital Twins · Agentic conservation info recognition</span>
-  </div>
-  <p style="margin: 14px 0 0; line-height: 1.5; color: #75eeb2; font-size: 13px;">
-    A conservation tech lab application to record and analyze geolocation and biodiversity data, derive useful insights, and help conservationists around the globe.
-  </p>
-</div>
+| #conservation-tech-lab |
+| --- |
+| ![Private repo](https://img.shields.io/badge/Private-WIP-red?style=for-the-badge&logo=github&logoColor=white) ![Biodiversity](https://img.shields.io/badge/Biodiversity-2ECC71?style=for-the-badge&logo=leaf&logoColor=white) ![Geolocation](https://img.shields.io/badge/Geolocation-3498DB?style=for-the-badge&logo=map&logoColor=white) ![GIS](https://img.shields.io/badge/GIS-8E44AD?style=for-the-badge&logo=map&logoColor=white) ![Digital Twins](https://img.shields.io/badge/Digital%20Twins-F39C12?style=for-the-badge&logo=zap&logoColor=white) |
+| A conservation tech lab application to record and analyze geolocation and biodiversity data, derive useful insights, and help conservationists around the globe.
 
 ### Thank you for reading my info! =)
 
