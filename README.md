@@ -47,7 +47,6 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
   <tr>
     <td style="padding: 14px 16px;">
       <font color="#e683d9" size="3"><b>conservation-tech-lab</b></font><br />
-      <font color="#75eeb2" size="2">Private repo (WIP)</font><br /><br />
       <img src="https://img.shields.io/badge/Private-WIP-red?style=flat-square&logo=github&logoColor=white&logoWidth=12" alt="Private repo" />
       <img src="https://img.shields.io/badge/Biodiversity-2ECC71?style=flat-square&logo=leaf&logoColor=white&logoWidth=12" alt="Biodiversity" />
       <img src="https://img.shields.io/badge/Geolocation-3498DB?style=flat-square&logo=map&logoColor=white&logoWidth=12" alt="Geolocation" />
