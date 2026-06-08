@@ -43,10 +43,21 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
 
 ![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true)
 
-| #conservation-tech-lab |
-| --- |
-| ![Private repo](https://img.shields.io/badge/Private-WIP-red?style=for-the-badge&logo=github&logoColor=white) ![Biodiversity](https://img.shields.io/badge/Biodiversity-2ECC71?style=for-the-badge&logo=leaf&logoColor=white) ![Geolocation](https://img.shields.io/badge/Geolocation-3498DB?style=for-the-badge&logo=map&logoColor=white) ![GIS](https://img.shields.io/badge/GIS-8E44AD?style=for-the-badge&logo=map&logoColor=white) ![Digital Twins](https://img.shields.io/badge/Digital%20Twins-F39C12?style=for-the-badge&logo=zap&logoColor=white) |
-| A conservation tech lab application to record and analyze geolocation and biodiversity data, derive useful insights, and help conservationists around the globe.
+<table align="center" width="576" cellpadding="10" cellspacing="0" bgcolor="#193549" style="border-radius:14px; overflow:hidden;">
+  <tr>
+    <td style="padding: 14px 16px;">
+      <font color="#e683d9" size="3"><b>conservation-tech-lab</b></font><br />
+      <font color="#75eeb2" size="2">Private repo (WIP)</font><br /><br />
+      <img src="https://img.shields.io/badge/Private-WIP-red?style=flat-square&logo=github&logoColor=white&logoWidth=12" alt="Private repo" />
+      <img src="https://img.shields.io/badge/Biodiversity-2ECC71?style=flat-square&logo=leaf&logoColor=white&logoWidth=12" alt="Biodiversity" />
+      <img src="https://img.shields.io/badge/Geolocation-3498DB?style=flat-square&logo=map&logoColor=white&logoWidth=12" alt="Geolocation" />
+      <img src="https://img.shields.io/badge/GIS-8E44AD?style=flat-square&logo=map&logoColor=white&logoWidth=12" alt="GIS" />
+      <img src="https://img.shields.io/badge/Digital%20Twins-F39C12?style=flat-square&logo=zap&logoColor=white&logoWidth=12" alt="Digital Twins" />
+      <br />
+      <font color="#c9d1d9" size="1">A conservation tech lab application to record and analyze geolocation and biodiversity data, derive useful insights, and help conservationists around the globe.</font>
+    </td>
+  </tr>
+</table>
 
 ### Thank you for reading my info! =)
 
