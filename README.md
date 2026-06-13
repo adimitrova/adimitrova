@@ -8,7 +8,7 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
 - :school_satchel: __I’m currently mastering__ Databricks & Streaming tools, 
 - 💬 __Ask me about__ Python, PySpark, SQL, Big Data, DDD, Microservices, Event-driven architecture
 - 📫 __How to reach me__: [Linkedin](https://www.linkedin.com/in/anelia-dimitrova/) or [my personal website](https://www.worldofinspiration.net/)
-- ⚡ __Fun fact__: I grow carnivoruos plants as a hobby; :hedgehog: I also work as a caretaker volunteer at a hedgehog center in the weekends. I am opening an online store for my plants soon with the goal to donate most of the processings for animal causes. It will be available here: [Eat That Bug! Plants](https://shop.worldofinspiration.net/)
+- ⚡ __Fun fact__: I grow carnivoruos plants as a hobby; :hedgehog: I also work as a caretaker volunteer at a hedgehog center in the weekends. I am opening an online store for my plants soon with the goal to donate most of the proceedings for animal causes. It will be available here: [Eat That Bug! Plants](https://shop.worldofinspiration.net/)
 - 📚 I also document my travels and advices thereof in my [travel blog](https://travel.worldofinspiration.net/) ✏️. Check it out, might be interesting 🙂
 - :thinking: Thoughts about my volunteering work, life in the Netherlands and other random things, you can read at my [Bla Bla Blog](https://blabla.worldofinspiration.net/)
 
@@ -20,7 +20,7 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
   - 💻 Latest technology and tools
   - 🐦 Birdwatching
   - ♻️ Nature, ecology and the impact of humans on our planet
-  - 📚 Books (mostly, but not only non-fiction, fantasy, tech & travel-related)
+  - 📚 Books (mostly, but not only, non-fiction, fantasy, tech & travel-related)
   - 🎵 🥳 Electronic music festivals
   - 🍻 Meeting friends and new people
   - ✈️ And, of course, travel as far in the world as possible, to explore new cultures and people 😻
