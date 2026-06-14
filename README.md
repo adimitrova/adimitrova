@@ -29,19 +29,19 @@ Beyond my work in tech, I’m deeply passionate about animal conservation and en
 
 ## Codebase
 
-<img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_ofinspiration,MapWiT&show_private=true&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=369&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/top-langs/?username=adimitrova&layout=compact&exclude_repo=world_ofinspiration,MapWiT&show_private=true&hide=html,jupyter%20notebook,css&theme=cobalt&card_width=369&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api?username=adimitrova&show_icons=true&theme=cobalt&count_private=true&hide=contribs&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api?username=adimitrova&show_icons=true&theme=cobalt&count_private=true&hide=contribs&hide_border=true&cache_seconds=1800" />
 
 <!-- GitHub profile trophy service is currently unavailable, so we use the working summary cards below. -->
 
 ### Projects summary
 
-[![Epubify](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt&hide_border=true)](https://github.com/adimitrova/Epubify)
+[![Epubify](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=Epubify&theme=cobalt&hide_border=true&cache_seconds=1800)](https://github.com/adimitrova/Epubify)
 
-[![market_tracker](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=market_tracker&theme=cobalt&hide_border=true)](https://github.com/adimitrova/market_tracker)
+[![market_tracker](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=market_tracker&theme=cobalt&hide_border=true&cache_seconds=1800)](https://github.com/adimitrova/market_tracker)
 
-[![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true)](https://github.com/adimitrova/FlipLearn)
+[![FlipLearn](https://github-readme-stats-git-master-anis-projects-5e640176.vercel.app/api/pin/?username=adimitrova&repo=FlipLearn&theme=cobalt&hide_border=true&cache_seconds=1800)](https://github.com/adimitrova/FlipLearn)
 
 
 <table align="center" width="576" cellpadding="10" cellspacing="0" bgcolor="#193549" style="border-radius:14px; overflow:hidden;">
